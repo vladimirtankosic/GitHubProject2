@@ -1,3 +1,12 @@
 body {
   background: #131313;
 }
+
+.wrapper {
+  background: #ffffff;
+}
+
+h3 {
+  color: #000000;
+  font-size: 30px;
+}
