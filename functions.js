@@ -1,3 +1,3 @@
 function Funkcija(){
- alert("neka funkcija"); 
+ alert("neka funkcijar"); 
 }
